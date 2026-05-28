@@ -1,11 +1,2 @@
 # SAP Fiori Regression Test Case Generator
 
-## Demo
-
-<p align="center">
-  <img src="SAP_Fiori.gif" width="900"/>
-</p>
-
-## Full Demo Video
-
-[Watch Demo](SAP_Fiori.mp4)
